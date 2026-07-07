@@ -1,5 +1,5 @@
 import Taro from '@tarojs/taro';
-import apiConfigFile, { getServiceUrl, apiEndpoints, type ServiceName } from '../config/api.config';
+import apiConfigFile, { getServiceUrl } from '../config/api.config';
 
 // API配置
 interface ApiConfig {
